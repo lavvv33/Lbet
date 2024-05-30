@@ -6,4 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="UseCases\Commands\" />
+      <Folder Include="Validators\" />
+    </ItemGroup>
+
 </Project>
